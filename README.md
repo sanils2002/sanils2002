@@ -68,8 +68,13 @@
 ### Check My Minor-Project : https://sanils2002.github.io/Grocery-Hub/ <br> 
 <br/>
 
+  <details>
   <summary>⭐: Github Stats</summary>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanils2002&show_icons=true&theme=light&line_height=30" alt="Sanil's github stats"/>
+  <p align="center"> 
+  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sanils2002&" alt="sanils2002" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanils2002&show_icons=true&theme=light&line_height=30" alt="Sanil's github stats"/></p>
+   
+  </details>
 
  - Visitor count<br>
   <img src="https://profile-counter.glitch.me/sanils2002/count.svg" /> 
