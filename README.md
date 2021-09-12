@@ -1,9 +1,7 @@
 ### Hi there 👋
+### I am Sanil Sanjay Sattarkar
 
-<!--
-**sanils2002/sanils2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## My Profile:
+## I am a Graphics Designer and a Front End Web Developer!
 
 - 🔭 I’m currently working on Front-End Web Development   
 - 🌱 I’m currently learning Bootstrap 
