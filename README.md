@@ -13,7 +13,7 @@
 <!---- ⚡ Fun fact: ...
 -->
 
-### Languages and Tools:
+### Languages:
 
 <section>
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
@@ -23,8 +23,12 @@
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xml/xml.png"></code>
-<code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xslt/xslt.png"></code>
+</section>
+<br/>
+
+### Tools:
+
+<section>
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code> 
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -33,14 +37,16 @@
 <a href="https://github.com/sanils2002">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanils2002&theme=light&hide_langs_below=1" />
 </a>
-
+  
 </section>
 <br/>
+
+
 
 ### Check My Portfolio : https://sanils2002.github.io/CSL103-Sample-Resume/ <br>
 ### Check My Mini-Project : https://sanils2002.github.io/CSL103-WebPage/ <br> 
 ### Check My Minor-Project : https://sanils2002.github.io/Grocery-Hub/ <br> 
-<br />
+<br/>
  <details>
   <summary>:zap: Github Stats</summary>
    <img align="left" alt="Sanils's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanils2002" /> 
