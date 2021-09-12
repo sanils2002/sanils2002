@@ -76,6 +76,8 @@
   <p align="center"> 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanils2002&" alt="sanils2002" /></p>
   
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanils2002&show_icons=true&theme=light&line_height=30" alt="Sanil's github stats"/>    | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanils2002&theme=light&hide_langs_below=1&layout=compact&card_width=400&langs_count=10" /> | 
+  
  - Visitor count<br>
   <img src="https://profile-counter.glitch.me/sanils2002/count.svg" /> 
   </p>
