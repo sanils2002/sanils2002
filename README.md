@@ -79,7 +79,6 @@
 <summary>⭐: Github Stats</summary>
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-
 - Visitor's Count<br>
   <img src="https://profile-counter.glitch.me/sanils2002/count.svg" /> 
   </p>
