@@ -79,8 +79,7 @@
 ### Check My Minor-Project : https://sanils2002.github.io/Grocery-Hub/ <br> 
 <br/>
 
-<summary>⭐: Github Stats</summary><br>
-
+<summary>⭐: Github Stats</summary>
 <hr>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanils2002&theme=light&hide_langs_below=1&layout=compact&card_width=400&langs_count=10" alt="sanils2002">
   
