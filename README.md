@@ -9,6 +9,8 @@
 </a>
 <a href="https://www.behance.net/sanilsattarkar">
   <img align="left" alt="Sanil Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" />
+<a href="https://www.figma.com/files/user/939226844701567191?fuid=939226844701567191">  
+  <img align="left" alt="Sanil Figma" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/figma.svg" />
 </a>
 <br/>
 
