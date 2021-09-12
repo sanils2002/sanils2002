@@ -16,15 +16,13 @@
 
 ## I am a Graphics Designer and a Front End Web Developer!
 
+- 😄 Pronouns: He/Him
 - 🔭 I’m currently working on Front-End Web Development   
 - 🌱 I’m currently learning Bootstrap 
-<!---- 👯 I’m looking to collaborate on ...--->
-<!---- 🤔 I’m looking for help with ...--->
+👯 I’m collaborating in Orator Club, IIITN as a Graphic Designer
 - 💬 Ask me about Graphic Designing, Web-Development  
-- 📫 How to reach me: Email:- sattarkars45@gmail.com  
-- 😄 Pronouns: He/Him
-<!---- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: Email:- sattarkars45@gmail.com
+- 🤔 Loves to play games and hear music...
 
 [![Sanil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sanils2002&theme=dracula)](https://git.io/sanils2002)
 
