@@ -80,7 +80,8 @@
 <br/>
 
 <summary>⭐: Github Stats</summary><br>
-<img align="left" alt="Sanil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanils2002_width=400&langs_count=10"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanils2002&_width=400&langs_count=10" alt="sanils2002">
+<img align="center" alt="Sanil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanils2002"><br>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sanils2002&" alt="sanils2002">
 
   
  - Visitor count<br>
