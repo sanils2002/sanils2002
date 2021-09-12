@@ -77,8 +77,8 @@
 <br/>
 
 <summary>⭐: Github Stats</summary>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanils2002&repo=github-readme-stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanils2002&layout=compactt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanils2002&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanils2002" />
 
   <img src="https://profile-counter.glitch.me/sanils2002/count.svg" /> 
   </p>
