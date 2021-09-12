@@ -70,11 +70,11 @@
 
   <details>
   <summary>⭐: Github Stats</summary>
-  <img align="left" alt="Ayush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayushpratap344" />
+  <img align="left" alt="Ayush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanils2002" />
   </details>
   
   <p align="center"> 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sanils2002&show_icons=true&theme=light&line_height=30" alt="Sanil's github stats"/></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sanils2002&show_icons=true&theme=light&line_height=30" alt="Sanil's github stats"/></p>
   
  - Visitor count<br>
   <img src="https://profile-counter.glitch.me/sanils2002/count.svg" /> 
