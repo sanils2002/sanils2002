@@ -35,6 +35,7 @@
 ### Check My Portfolio : https://sanils2002.github.io/CSL103-Sample-Resume/ <br>
 ### Check My Mini-Project : https://sanils2002.github.io/CSL103-WebPage/ <br> 
 ### Check My Minor-Project : https://sanils2002.github.io/Grocery-Hub/ <br> 
+<br />
  <details>
   <summary>:zap: Github Stats</summary>
    <img align="left" alt="Sanils's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanils2002" /> 
