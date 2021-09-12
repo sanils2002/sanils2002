@@ -77,10 +77,7 @@
 <br/>
 
 <summary>⭐: Github Stats</summary>
-| ![Sanil GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sanils2002&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanils2002) |
-| --- | --- |
-| ![Sanil GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanils2002) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
-  
- - Visitor count<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanils2002)](https://github.com/sanils2002/github-readme-stats)
+
   <img src="https://profile-counter.glitch.me/sanils2002/count.svg" /> 
   </p>
