@@ -68,10 +68,10 @@
 ### Check My Minor-Project : https://sanils2002.github.io/Grocery-Hub/ <br> 
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanils2002&show_icons=true&theme=light&line_height=30" alt="Sanil's github stats"/>
  <details>
   <summary>:zap: Github Stats</summary>
-   <img align="left" alt="Sanils's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanils2002" /> 
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=sanils2002&show_icons=true&theme=light&line_height=30" alt="Sanil's github stats"/>
+   <img align="right" alt="Sanils's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanils2002" /> 
 </details>
 
 <p align="center"> 
