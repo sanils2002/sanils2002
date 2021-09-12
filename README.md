@@ -81,7 +81,7 @@
 
 <summary>⭐: Github Stats</summary><br>
 <img align="center" alt="Sanil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanils2002&show_icons=true&theme=light&line_height=30">
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sanils2002&" alt="sanils2002">
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sanils2002&theme=light&hide_langs_below=1&layout=compact&card_width=400&langs_count=10" alt="sanils2002 ">
 
   
  - Visitor count<br>
