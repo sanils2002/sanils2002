@@ -25,7 +25,7 @@
 -->
 
 <a href="https://github.com/sanils2002">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanils2002&theme=light&hide_langs_below=1&layout=compact&card_width=400&langs_count=10" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanils2002&theme=light&layout=compact&card_width=400&langs_count=10" />
 </a>
 
 ### Languages:
