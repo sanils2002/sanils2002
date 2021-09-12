@@ -24,9 +24,6 @@
 <!---- ⚡ Fun fact: ...
 -->
 [![Sanil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sanils2002&theme=xcode)](https://git.io/sanils2002)
-<a href="https://github.com/sanils2002">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanils2002&theme=light&layout=compact&card_width=300&langs_count=10" />
-</a>
 
 ### Languages:
 
@@ -80,8 +77,9 @@
 <br/>
 
 <summary>⭐: Github Stats</summary>
-<hr>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanils2002&theme=light&hide_langs_below=1&layout=compact&card_width=400&langs_count=10" alt="sanils2002"/><br/>
+| ![Sanil GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sanils2002&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanils2002) |
+| --- | --- |
+| ![Sanil GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanils2002) |
   
  - Visitor count<br>
   <img src="https://profile-counter.glitch.me/sanils2002/count.svg" /> 
