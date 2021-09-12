@@ -32,4 +32,12 @@
 </a>
 
 </section>
+<br/>
+<br/>
 
+<p align="center"> 
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanils2002&" alt="sanils2002" /></p>
+
+ - Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sanils2002/count.svg" /> 
+  </p>
