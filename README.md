@@ -3,7 +3,7 @@
 <!--
 **sanils2002/sanils2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### My Profile:
+## My Profile:
 
 - 🔭 I’m currently working on Front-End Web Development   
 - 🌱 I’m currently learning Bootstrap 
@@ -34,6 +34,12 @@
 </section>
 <br/>
 <br/>
+
+### Check My Portfolio : https://sanils2002.github.io/CSL103-Sample-Resume/ <br>
+ <details>
+  <summary>:zap: Github Stats</summary>
+   <img align="left" alt="Sanils's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanils2002" /> 
+</details>
 
 <p align="center"> 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanils2002&" alt="sanils2002" /></p>
