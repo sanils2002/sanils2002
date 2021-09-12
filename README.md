@@ -26,6 +26,7 @@
 <!---- ⚡ Fun fact: ...
 -->
 
+  <hr><br>
 [![Sanil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sanils2002&theme=xcode)](https://git.io/sanils2002) ] 
 
 ### Languages:
