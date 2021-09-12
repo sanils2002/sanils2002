@@ -77,7 +77,12 @@
 <br/>
 
 <summary>⭐: Github Stats</summary>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanils2002)](https://github.com/sanils2002/github-readme-stats)
+<a href="https://github.com/sanils2002/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanils2002&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/sanils2002/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanils2002&repo=convoychat" />
+</a>
 
   <img src="https://profile-counter.glitch.me/sanils2002/count.svg" /> 
   </p>
