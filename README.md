@@ -82,4 +82,4 @@
 
 | ![Sanil GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sanils2002&show_icons=true&theme=darcula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanils2002&theme=darcula&layout=compact&langs_count=10) |
 | --- | --- |
-| ![Sanil GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanils2002&theme=darcula) | ![Sanil wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sanils2002)|
+| ![Sanil GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanils2002&theme=darcula) | ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanils2002&repo=CSL103-WebPage) |
