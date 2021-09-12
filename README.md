@@ -80,7 +80,7 @@
 <br/>
 
 <summary>⭐: Github Stats</summary><br>
-<img align="left" alt="Sanil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanils2002"> || <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanils2002&" alt="sanils2002">
+<img align="left" alt="Sanil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanils2002"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanils2002&" alt="sanils2002">
 
   
  - Visitor count<br>
