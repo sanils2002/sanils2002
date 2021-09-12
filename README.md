@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am Sanil Sanjay Sattarkar
+### I'm Sanil Sanjay Sattarkar
 
 <a href="https://www.linkedin.com/in/sanil-sattarkar-529132202/">
   <img align="left" alt="Sanil LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/linkedin.svg" />
@@ -14,7 +14,7 @@
 </a>
 <br/>
 
-## I am a Graphics Designer and a Front End Web Developer!
+## I'm a Graphics Designer and a Front End Web Developer!
 
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on Front-End Web Development   
