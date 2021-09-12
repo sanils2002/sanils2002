@@ -72,9 +72,6 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanils2002&show_icons=true&theme=light&line_height=30" alt="Sanil's github stats"/>
    <img align="right" alt="Sanils's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanils2002" /> 
 
-<p align="center"> 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanils2002&" alt="sanils2002" /></p>
-
  - Visitor count<br>
   <img src="https://profile-counter.glitch.me/sanils2002/count.svg" /> 
   </p>
