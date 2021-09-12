@@ -23,7 +23,7 @@
 - 😄 Pronouns: He/Him
 <!---- ⚡ Fun fact: ...
 -->
-
+[![Sanil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sanils2002&theme=xcode)](https://git.io/sanils2002)
 <a href="https://github.com/sanils2002">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanils2002&theme=light&layout=compact&card_width=300&langs_count=10" />
 </a>
