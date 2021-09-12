@@ -81,7 +81,7 @@
 
 <summary>⭐: Github Stats</summary>
 <hr>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanils2002&theme=light&hide_langs_below=1&layout=compact&card_width=400&langs_count=10" alt="sanils2002"><br/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanils2002&theme=light&hide_langs_below=1&layout=compact&card_width=400&langs_count=10" alt="sanils2002"/><br/>
   
  - Visitor count<br>
   <img src="https://profile-counter.glitch.me/sanils2002/count.svg" /> 
