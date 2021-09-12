@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently working on Front-End Web Development   
 - 🌱 I’m currently learning Bootstrap 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+<!---- 👯 I’m looking to collaborate on ...--->
+<!---- 🤔 I’m looking for help with ...--->
 - 💬 Ask me about Graphic Designing, Web-Development  
 - 📫 How to reach me: Email:- sattarkars45@gmail.com  
 - 😄 Pronouns: He/Him
