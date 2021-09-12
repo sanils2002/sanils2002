@@ -26,7 +26,7 @@
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img width="26px" src="https://w7.pngwing.com/pngs/641/474/png-transparent-xml-editor-computer-icons-others-angle-text-rectangle-thumbnail.png"></code> 
+<code><img width="26px" src="https://image.pngaaa.com/154/5569154-middle.png"></code> 
 <code><img width="26px" src="https://media.istockphoto.com/vectors/white-xsl-file-document-icon-download-xsl-button-icon-isolated-with-vector-id1145457366?k=20&m=1145457366&s=170667a&w=0&h=DgSUDr7VMAXzboK5f4tEroXxqwfUe1hpYzZjykeiy5g="></code>
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>  
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
