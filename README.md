@@ -77,8 +77,7 @@
 <br/>
 
 <summary>⭐: Github Stats</summary>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-- Visitor's Count<br>
-  <img src="https://profile-counter.glitch.me/sanils2002/count.svg" /> 
-  </p>
+| ![Sanil GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sanils2002&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanils2002) |
+| --- | --- |
+| ![Sanil GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanils2002) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
