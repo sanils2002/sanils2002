@@ -80,7 +80,6 @@
 
 <summary>⭐: <b>Github Stats</b></summary><br/>
 
-![Sanil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanils2002&show_icons=true&theme=radical)
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanils2002&langs_count=10) |
+| ![Sanil GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sanils2002&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanils2002&langs_count=10) |
 | --- | --- |
 | ![Sanil GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanils2002) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
