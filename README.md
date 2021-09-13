@@ -81,4 +81,4 @@
 
 | ![Sanil GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sanils2002&show_icons=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanils2002&theme=dracula&layout=compact&langs_count=10) |
 | --- | --- |
-| ![Sanil GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanils2002&theme=dracula) | ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanils2002&repo=CSL103-WebPage&theme=dracula) |
+| ![Sanil GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanils2002&theme=dracula) | ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanils2002&repo=Mini-WebPage&theme=dracula) |
