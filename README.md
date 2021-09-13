@@ -72,8 +72,8 @@
 </section>
 <br/>
 
-### Check My Portfolio : https://sanils2002.github.io/CSL103-Sample-Resume/ <br>
-### Check My Mini-Project : https://sanils2002.github.io/CSL103-WebPage/ <br> 
+### Check My Portfolio : https://sanils2002.github.io/Portfolio-Resume/ <br>
+### Check My Mini-Project : https://sanils2002.github.io/Mini-WebPage/ <br> 
 ### Check My Minor-Project : https://sanils2002.github.io/Grocery-Hub/ <br> 
 <br/>
 
