@@ -77,7 +77,7 @@
 ### Check My Minor-Project : https://sanils2002.github.io/Grocery-Hub/ <br> 
 <br/>
 
-<summary>⭐: <b>Github Stats</b></summary><br/>
+<summary>⭐: <b>Github Stats:-</b></summary><br/>
 
 | ![Sanil GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sanils2002&show_icons=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanils2002&theme=dracula&layout=compact&langs_count=10) |
 | --- | --- |
