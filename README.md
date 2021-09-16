@@ -81,4 +81,4 @@
 
 | ![Sanil GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sanils2002&show_icons=true&theme=synthwave) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanils2002&theme=synthwave&layout=compact&langs_count=10) |
 | --- | --- |
-| ![Sanil GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanils2002&theme=synthwave) | ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanils2002&repo=Mini-WebPage&theme=synthwave) |
+| ![Sanil GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanils2002&theme=synthwave) | ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanils2002&repo=MATLAB-PROJECTS&theme=synthwave) |
