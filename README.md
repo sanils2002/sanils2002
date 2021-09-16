@@ -79,6 +79,6 @@
 
 <summary>⭐: <b>Github Stats:-</b></summary><br/>
 
-| ![Sanil GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sanils2002&show_icons=true&theme=cobalt) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanils2002&theme=cobalt&layout=compact&langs_count=10) |
+| ![Sanil GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sanils2002&show_icons=true&theme=gruvbox) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanils2002&theme=gruvbox&layout=compact&langs_count=10) |
 | --- | --- |
-| ![Sanil GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanils2002&theme=cobalt) | ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanils2002&repo=MATLAB-PROJECTS&theme=cobalt) |
+| ![Sanil GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanils2002&theme=gruvbox) | ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanils2002&repo=MATLAB-PROJECTS&theme=gruvbox) |
