@@ -27,11 +27,11 @@
 ### I'm a Graphics Designer and a Front End Web Developer!
 
 - 😄 Pronouns: <b>He/Him</b>
-- 🔭 I’m currently working on Front-End Web Development   
-- 🌱 I’m currently learning Bootstrap 
-👯 I’m collaborating in Orator Club, IIITN as a Graphic Designer
-- 💬 Ask me about Graphic Designing, Web-Development  
-- 📫 How to reach me: Email:- sattarkars45@gmail.com
+- 🔭 I’m currently working on <b>Front-End Web Development</b>   
+- 🌱 I’m currently learning <b>Bootstrap</b> 
+👯 I’m collaborating in <b>Orator Club, IIITN as a Graphic Designer</b>
+- 💬 Ask me about <b>Graphic Designing, Web-Development</b>  
+- 📫 How to reach me: Email:- <b><u>sattarkars45@gmail.com</u></b>
 - 🤔 Loves to play games and hear music...
 
 [![Sanil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sanils2002&theme=nord)](https://git.io/sanils2002)
