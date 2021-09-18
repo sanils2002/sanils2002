@@ -31,7 +31,7 @@
 - 🌱 I’m currently learning <b>Bootstrap</b> 
 👯 I’m collaborating in <b>Orator Club, IIITN as a Graphic Designer</b>
 - 💬 Ask me about <b>Graphic Designing, Web-Development</b>  
-- 📫 How to reach me: Email:- <b><u>sattarkars45@gmail.com</u></b>
+- 📫 How to reach me: Email:- <b>sattarkars45@gmail.com</b>
 - 🤔 Loves to play games and hear music...
 
 [![Sanil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sanils2002&theme=nord)](https://git.io/sanils2002)
