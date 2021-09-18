@@ -13,6 +13,9 @@
 <a href="https://wordpress.com/home/movienight2021ace.wordpress.com">  
   <img align="left" alt="Sanil Wordpress" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wordpress.svg" />
 </a>
+<a href="https://manage.wix.com/dashboard/a1049893-15a6-42ca-9a47-58d831fbfc1c/home?referralInfo=EDITOR">  
+  <img align="left" alt="Sanil WiX" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wix.svg" />
+</a>
 <a href="https://medium.com/@sattarkars45">  
   <img align="left" alt="Sanil Medium" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />
 </a>
@@ -65,6 +68,7 @@
 <code><img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
 <code><img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>  
 <code><img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
+<code><img width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wix.svg"></code>
 <code><img width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 <code><img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>  
 </section>
