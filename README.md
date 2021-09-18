@@ -24,7 +24,7 @@
 - 📫 How to reach me: Email:- sattarkars45@gmail.com
 - 🤔 Loves to play games and hear music...
 
-[![Sanil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sanils2002&theme=cobalt)](https://git.io/sanils2002)
+[![Sanil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sanils2002&theme=nord)](https://git.io/sanils2002)
 
 ### Languages:
 
