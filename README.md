@@ -26,7 +26,7 @@
 
 ### I'm a Graphics Designer and a Front End Web Developer!
 
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: <b>He/Him</b>
 - 🔭 I’m currently working on Front-End Web Development   
 - 🌱 I’m currently learning Bootstrap 
 👯 I’m collaborating in Orator Club, IIITN as a Graphic Designer
