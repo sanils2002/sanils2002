@@ -2,25 +2,25 @@
 ### I'm Sanil Sanjay Sattarkar
 
 <a href="https://www.linkedin.com/in/sanil-sattarkar-529132202/">
-  <img align="left" alt="Sanil LinkedIN" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/linkedin.svg" />
+  <img align="left" alt="Sanil LinkedIN" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/linkedin.svg" target="_blank" />
 </a>
 <a href="https://www.instagram.com/sanil_0205/">
-  <img align="left" alt="Sanil Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/instagram.svg" />
+  <img align="left" alt="Sanil Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/instagram.svg" target="_blank" />
 </a>
 <a href="https://www.behance.net/sanilsattarkar">
-  <img align="left" alt="Sanil Behance" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" />
+  <img align="left" alt="Sanil Behance" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" target="_blank" />
 </a>
 <a href="https://wordpress.com/home/movienight2021ace.wordpress.com">  
-  <img align="left" alt="Sanil Wordpress" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wordpress.svg" />
+  <img align="left" alt="Sanil Wordpress" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wordpress.svg" target="_blank" />
 </a>
 <a href="https://manage.wix.com/dashboard/a1049893-15a6-42ca-9a47-58d831fbfc1c/home?referralInfo=EDITOR">  
-  <img align="left" alt="Sanil WiX" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wix.svg" />
+  <img align="left" alt="Sanil WiX" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wix.svg" target="_blank" />
 </a>
 <a href="https://medium.com/@sattarkars45">  
-  <img align="left" alt="Sanil Medium" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />
+  <img align="left" alt="Sanil Medium" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" target="_blank" />
 </a>
 <a href="https://www.figma.com/files/user/939226844701567191?fuid=939226844701567191">  
-  <img align="left" alt="Sanil Figma" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/figma.svg" />
+  <img align="left" alt="Sanil Figma" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/figma.svg" target="_blank" />
 </a>
 <br/>
 
@@ -83,11 +83,11 @@
 </section>
 <br/>
 
-### Check My Portfolio : https://sanils2002.github.io/Portfolio-Resume/ <br>
-### Check My Dummy Portfolio :https://sattarkars45.wixsite.com/website <br>
-### Check My Mini-Project-1 : https://movienight2021ace.wordpress.com/ <br>
-### Check My Mini-Project-2 : https://sanils2002.github.io/Mini-WebPage/ <br> 
-### Check My Minor-Project : https://sanils2002.github.io/Grocery-Hub/ <br>
+### Check My Portfolio : https://sanils2002.github.io/Portfolio-Resume/ target="_blank" <br>
+### Check My Dummy Portfolio :https://sattarkars45.wixsite.com/website target="_blank"<br>
+### Check My Mini-Project-1 : https://movienight2021ace.wordpress.com/ target="_blank"<br>
+### Check My Mini-Project-2 : https://sanils2002.github.io/Mini-WebPage/ target="_blank"<br> 
+### Check My Minor-Project : https://sanils2002.github.io/Grocery-Hub/ target="_blank"<br>
 <br/>
 
 <summary>⭐: <b>Github Stats:-</b></summary><br/>
