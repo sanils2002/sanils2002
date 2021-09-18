@@ -17,7 +17,7 @@
 </a>
 <br/>
 
-## I'm a Graphics Designer and a Front End Web Developer!
+### I'm a Graphics Designer and a Front End Web Developer!
 
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on Front-End Web Development   
