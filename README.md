@@ -9,8 +9,12 @@
 </a>
 <a href="https://www.behance.net/sanilsattarkar">
   <img align="left" alt="Sanil Behance" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" />
+</a>
 <a href="https://medium.com/@sattarkars45">  
-  <img align="left" alt="Sanil Medium" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />
+  <img align="left" alt="Sanil Wordpress" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wordpress.svg" />
+</a>
+<a href="https://medium.com/@sattarkars45">  
+  <img align="left" alt="Sanil Medium" width="32px" src="https://wordpress.com/home/movienight2021ace.wordpress.com" />
 </a>
   <a href="https://www.figma.com/files/user/939226844701567191?fuid=939226844701567191">  
   <img align="left" alt="Sanil Figma" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/figma.svg" />
