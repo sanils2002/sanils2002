@@ -19,7 +19,7 @@
 <a href="https://www.figma.com/files/user/939226844701567191?fuid=939226844701567191">  
   <img align="left" alt="Sanil Figma" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/figma.svg" />
 </a>
-<br/>
+<br/><br/>
 
 ### I'm a Graphics Designer and a Front End Web Developer!
 
