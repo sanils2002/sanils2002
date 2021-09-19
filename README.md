@@ -63,6 +63,7 @@
 <code><img width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg"></code>
 <code><img width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/eclipseide.svg"></code>
 <code><img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<code><img width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Gnusim8085_Logo.svg/800px-Gnusim8085_Logo.svg.png"></code>
 <code><img width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1280px-Apache_Tomcat_logo.svg.png"></code>
 <code><img width="36px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/WampServer-logo.png"></code>  
 <code><img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
