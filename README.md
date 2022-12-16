@@ -24,14 +24,13 @@
 </a>
 <br/>
 
-### I'm a Graphics Designer and a Front End Web Developer!
+### I'm a Front End Web Developer!
 
 - 😄 Pronouns: <b>He/Him</b>
 - 🔭 I’m currently working on <b>Front-End Web Development</b>   
 - 🌱 I’m currently learning <b>Bootstrap</b> 
-👯 I’m collaborating in <b>Orator Club, IIITN as a Graphic Designer</b>
-- 💬 Ask me about <b>Graphic Designing, Web-Development</b>  
-- 📫 How to reach me: Email:- <b>sattarkars45@gmail.com</b>
+- 💬 Ask me about <b>Web-Development</b>  
+- 📫 How to reach me: Email:- <b>bt20ece001@iiitn.ac.in</b>
 - 🤔 Loves to play games and hear music...
 
 [![Sanil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sanils2002&theme=nord)](https://git.io/sanils2002)
