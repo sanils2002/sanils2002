@@ -28,7 +28,7 @@
 
 - 😄 Pronouns: <b>He/Him</b>
 - 🔭 I’m currently working on <b>Front-End Web Development</b>   
-- 🌱 I’m currently learning <b>Bootstrap</b> 
+- 🌱 I’m currently learning <b>MongoDB</b> 
 - 💬 Ask me about <b>Web-Development</b>  
 - 📫 How to reach me: Email:- <b>bt20ece001@iiitn.ac.in</b>
 - 🤔 Loves to play games and hear music...
