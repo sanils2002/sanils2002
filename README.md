@@ -27,13 +27,14 @@
 ### I'm a Front End Web Developer!
 
 - 😄 Pronouns: <b>He/Him</b>
-- 🔭 I’m currently working on <b>Front-End Web Development</b>   
+- 🔭 I’m currently working on <b>Back-End Web Development</b>   
 - 🌱 I’m currently learning <b>MongoDB</b> 
 - 💬 Ask me about <b>Web-Development</b>  
 - 📫 How to reach me: Email:- <b>bt20ece001@iiitn.ac.in</b>
 - 🤔 Loves to play games and hear music...
 
 [![Sanil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sanils2002&theme=nord)](https://git.io/sanils2002)
+![Profile views](https://komarev.com/ghpvc/?username=aditi1403&color=blueviolet)
 
 ### Languages:
 
