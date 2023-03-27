@@ -1,9 +1,9 @@
 ### Hi there 👋
-### I'm Sanil Sanjay Sattarkar
+<!-- ### I'm Sanil Sanjay Sattarkar -->
 
 ![Profile views](https://komarev.com/ghpvc/?username=sanils2002&color=blueviolet)
 
-<a href="https://www.linkedin.com/in/sanils2002/">
+<!-- <a href="https://www.linkedin.com/in/sanils2002/">
   <img align="left" alt="Sanil LinkedIN" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/linkedin.svg" target="_blank" />
 </a>
 <a href="https://www.instagram.com/sanil_0205/">
@@ -91,7 +91,7 @@
 ### Check My Minor-Project : https://sanils2002.github.io/Grocery-Hub/ <br>
 <!-- ### Check My Mini-App : https://mybooks-sss.glideapp.io/ <br> -->
 <br/>
-
+ -->
 <summary>⭐: <b>Github Stats:-</b></summary><br/>
 
 | ![Sanil GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sanils2002&show_icons=true&theme=cobalt) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanils2002&theme=cobalt&layout=compact&langs_count=15) |
