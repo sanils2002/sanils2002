@@ -34,7 +34,7 @@
 - 🤔 Loves to play games and hear music...
 
 ![Profile views](https://komarev.com/ghpvc/?username=sanils2002&color=blueviolet)
-[![Sanil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sanils2002&theme=nord)](https://git.io/sanils2002)
+![Sanil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sanils2002&theme=nord)](https://git.io/sanils2002)
 
 ### Languages:
 
