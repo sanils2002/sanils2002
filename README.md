@@ -33,8 +33,8 @@
 - 📫 How to reach me: Email:- <b>bt20ece001@iiitn.ac.in</b>
 - 🤔 Loves to play games and hear music...
 
-![Sanil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sanils2002&theme=nord)](https://git.io/sanils2002)
-![Profile views](https://komarev.com/ghpvc/?username=aditi1403&color=blueviolet)
+[![Sanil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sanils2002&theme=nord)](https://git.io/sanils2002)
+![Profile views](https://komarev.com/ghpvc/?username=aditi1403&color=blueviolet)]
 
 ### Languages:
 
