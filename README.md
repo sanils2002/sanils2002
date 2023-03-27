@@ -1,7 +1,9 @@
 ### Hi there 👋
 ### I'm Sanil Sanjay Sattarkar
 
-<a href="https://www.linkedin.com/in/sanil-sattarkar-529132202/">
+![Profile views](https://komarev.com/ghpvc/?username=sanils2002&color=blueviolet)
+
+<a href="https://www.linkedin.com/in/sanils2002/">
   <img align="left" alt="Sanil LinkedIN" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/linkedin.svg" target="_blank" />
 </a>
 <a href="https://www.instagram.com/sanil_0205/">
@@ -33,7 +35,6 @@
 - 📫 How to reach me: Email:- <b>bt20ece001@iiitn.ac.in</b>
 - 🤔 Loves to play games and hear music...
 
-![Profile views](https://komarev.com/ghpvc/?username=sanils2002&color=blueviolet)
 
 ### Languages:
 
