@@ -4,9 +4,9 @@
 
 - 📄 Resume [https://drive.google.com/drive/u/0/folders/1dBH2BXd8ZCC4t0Aph3aP455aQyt_sqcc](https://drive.google.com/drive/u/0/folders/1dBH2BXd8ZCC4t0Aph3aP455aQyt_sqcc)
 
-- 👨‍💻 Linked In [https://www.linkedin.com/in/mridul-gupta-0aa3021b1/](https://www.linkedin.com/in/mridul-gupta-0aa3021b1/)
+- 👨‍💻 Linked In [https://www.linkedin.com/in/sanils2002/](https://www.linkedin.com/in/sanils2002/)
 
-- 📫 Mail me at : **gmridul556@gmail.com**
+- 📫 Mail me at : **sattarkars45@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
