@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanil Sattarkar</h1>
-<h3 align="center">I am 3rd-year undergrad at IIIT Nagpur pursuing my B.Tech in Computer Science and Engineering. I am an aspiring Software Engineer. I am currently looking for internship opportunities in SDE role. I love Problem Solving and I have solved about 900+ problems on various coding platforms.
+<h3 align="center">I am Final Year undergrad at IIIT Nagpur pursuing my B.Tech in Electronics and Communication Engineering. I am an aspiring Software Engineer. I am currently looking for internship opportunities in SDE/SWE role. I love Problem Solving and I have solved about 1000+ problems on various coding platforms.
 </h3>
 
 - 📄 Resume : [https://drive.google.com/file/d/1ibOuR9Xd0VhvFgVjS2c2Pgtt4YWLv5bM/view?usp=sharing](https://drive.google.com/file/d/1ibOuR9Xd0VhvFgVjS2c2Pgtt4YWLv5bM/view?usp=sharing)
