@@ -1,100 +1,21 @@
-### Hi there 👋
-<!-- ### I'm Sanil Sanjay Sattarkar -->
+<h1 align="center">Hi 👋, I'm Sanil Sattarkar</h1>
+<h3 align="center">I am 3rd-year undergrad at IIIT Nagpur pursuing my B.Tech in Computer Science and Engineering. I am an aspiring Software Engineer. I am currently looking for internship opportunities in SDE role. I love Problem Solving and I have solved about 900+ problems on various coding platforms.
+</h3>
 
-![Profile views](https://komarev.com/ghpvc/?username=sanils2002&color=blueviolet)
+- 📄 Resume [https://drive.google.com/drive/u/0/folders/1dBH2BXd8ZCC4t0Aph3aP455aQyt_sqcc](https://drive.google.com/drive/u/0/folders/1dBH2BXd8ZCC4t0Aph3aP455aQyt_sqcc)
 
-<!-- <a href="https://www.linkedin.com/in/sanils2002/">
-  <img align="left" alt="Sanil LinkedIN" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/linkedin.svg" target="_blank" />
-</a>
-<a href="https://www.instagram.com/sanil_0205/">
-  <img align="left" alt="Sanil Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/instagram.svg" target="_blank" />
-</a>
-<a href="https://www.behance.net/sanilsattarkar">
-  <img align="left" alt="Sanil Behance" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" target="_blank" />
-</a>
-<a href="https://wordpress.com/home/movienight2021ace.wordpress.com">  
-  <img align="left" alt="Sanil Wordpress" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wordpress.svg" target="_blank" />
-</a>
-<a href="https://manage.wix.com/dashboard/a1049893-15a6-42ca-9a47-58d831fbfc1c/home?referralInfo=EDITOR">  
-  <img align="left" alt="Sanil WiX" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wix.svg" target="_blank" />
-</a>
-<a href="https://medium.com/@sattarkars45">  
-  <img align="left" alt="Sanil Medium" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" target="_blank" />
-</a>
-<a href="https://www.figma.com/files/user/939226844701567191?fuid=939226844701567191">  
-  <img align="left" alt="Sanil Figma" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/figma.svg" target="_blank" />
-</a>
-<br/>
+- 👨‍💻 Linked In [https://www.linkedin.com/in/mridul-gupta-0aa3021b1/](https://www.linkedin.com/in/mridul-gupta-0aa3021b1/)
 
-### I'm a Front End Web Developer!
+- 📫 Mail me at : **gmridul556@gmail.com**
 
-- 😄 Pronouns: <b>He/Him</b>
-- 🔭 I’m currently working on <b>Back-End Web Development</b>   
-- 🌱 I’m currently learning <b>MongoDB</b> 
-- 💬 Ask me about <b>Web-Development</b>  
-- 📫 How to reach me: Email:- <b>bt20ece001@iiitn.ac.in</b>
-- 🤔 Loves to play games and hear music...
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mridul-gupta-0aa3021b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mridul-gupta-0aa3021b1" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ambarsariya_mg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ambarsariya_mg" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ambarsariya_mg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ambarsariya_mg" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ambarsariya_mg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ambarsariya_mg" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mridulgupsss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mridulgupsss" height="30" width="40" /></a>
+</p>
 
-
-### Languages:
-
-<section>
-<code><img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img width="36px" src="https://i.pinimg.com/originals/8c/b1/8c/8cb18c72082d13eb581cf6d452e8e266.png"></code>  
-<code><img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img width="36px" src="https://png.pngtree.com/element_our/png_detail/20181227/xml-vector-icon-png_287418.jpg"></code> 
-<code><img width="36px" src="https://media.istockphoto.com/vectors/white-xsl-file-document-icon-download-xsl-button-icon-isolated-with-vector-id1145457366?k=20&m=1145457366&s=170667a&w=0&h=DgSUDr7VMAXzboK5f4tEroXxqwfUe1hpYzZjykeiy5g="></code>
-<code><img width="36px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>  
-<code><img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-</section>
-<br/>
-
-### Softwares:
-
-<section>
-<code><img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img width="36px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"></code>
-<code><img width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/autodesk.svg"></code>  
-<code><img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
-<code><img width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg"></code>
-<code><img width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/eclipseide.svg"></code>
-<code><img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Gnusim8085_Logo.svg/800px-Gnusim8085_Logo.svg.png"></code>
-<code><img width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1280px-Apache_Tomcat_logo.svg.png"></code>
-<code><img width="36px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/WampServer-logo.png"></code>  
-<code><img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
-<code><img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>  
-<code><img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
-<code><img width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wix.svg"></code>
-<code><img width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
-<code><img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>  
-</section>
-<br/>
-
-### OS:
-
-<section>
-<code><img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
-<code><img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-</section>
-<br/>
-
-<!-- ### Check My Portfolio : https://sanils2002.github.io/Portfolio-Resume/ <br>
-### Check My Dummy Portfolio : https://sattarkars45.wixsite.com/website <br> -->
-<!-- ### Check My Mini-Project-1 : https://movienight2021ace.wordpress.com/ <br> -->
-<!-- ### Check My Mini-Project : https://sanils2002.github.io/Mini-WebPage/ <br> 
-### Check My Minor-Project : https://sanils2002.github.io/Grocery-Hub/ <br> -->
-<!-- ### Check My Mini-App : https://mybooks-sss.glideapp.io/ <br> -->
-<!-- <br/> -->
-<summary>⭐: <b>Github Stats:-</b></summary><br/>
-
-[![Sanil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanils2002&show_icons=true&theme=tokyonight)](https://github.com/sanils2002/github-readme-stats)
-
-[![Sanil's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=sanils2002&theme=tokyonight)](https://github.com/sanils2002/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanils2002&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/sanils2002/github-readme-stats)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
