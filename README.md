@@ -2,7 +2,7 @@
 <h3 align="center">I am a final year undergrad at IIIT Nagpur pursuing my B.Tech in Electronics and Communication Engineering. I am an aspiring Software Engineer. I am currently looking for internship opportunities in SDE/SWE role. I love Problem Solving and I have solved about 1000+ problems on various coding platforms.
 </h3>
 
-- 📄 Resume : [https://drive.google.com/file/d/1ibOuR9Xd0VhvFgVjS2c2Pgtt4YWLv5bM/view?usp=sharing](https://drive.google.com/file/d/1ibOuR9Xd0VhvFgVjS2c2Pgtt4YWLv5bM/view?usp=sharing)
+- 📄 Resume : [https://drive.google.com/file/d/1gbqjhO4EzGGNqWSnvCMR1vL9Wxf4WOzB/view?usp=drive_link](https://drive.google.com/file/d/1gbqjhO4EzGGNqWSnvCMR1vL9Wxf4WOzB/view?usp=drive_link)
 - 👨‍💻 LinkedIn : [https://www.linkedin.com/in/sanils2002/](https://www.linkedin.com/in/sanils2002/)
 
 - 📫 Mail me at : **sattarkars45@gmail.com**
