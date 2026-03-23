@@ -2,7 +2,7 @@
 <h3 align="center">Currently a Software Engineer @Purplle, graduated from IIIT, Nagpur. I have a experience of over 1 Year in this industry and more yet to learn in this AI-enabled tech era. I love Problem Solving and I have solved about 1200+ problems on various coding platforms.
 </h3>
 
-- 📄 Resume : [https://drive.google.com/file/d/1gbqjhO4EzGGNqWSnvCMR1vL9Wxf4WOzB/view?usp=drive_link](https://drive.google.com/file/d/1gbqjhO4EzGGNqWSnvCMR1vL9Wxf4WOzB/view?usp=drive_link)
+- 📄 Resume : [Click Here](https://www.linkedin.com/in/sanils2002/overlay/1774187158510/single-media-viewer/?profileId=ACoAADOh73EBKpPhzHddBrvTg4hD3cxmnp56NlQ)
 - 👨‍💻 LinkedIn : [https://www.linkedin.com/in/sanils2002/](https://www.linkedin.com/in/sanils2002/)
 
 - 📫 Mail me at : **sattarkars45@gmail.com**
